@@ -1,4 +1,4 @@
-# Ovos-Skil-My-MPD (formaly known as Mympdplaylist-skill)
+# Ovos-Skill-My-MPD (formaly known as Mympdplaylist-skill)
 
 **Important: The old Mycroft settingsmeta.yaml is replaced by settings.json. There is an example with two servers and two stations. At least one server must be defined. The rest is optionally. Attantion: settings.json needs strict JSON syntax.**
 
