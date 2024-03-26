@@ -1,4 +1,4 @@
-#Ovos-Skil-My-MPD (formaly known as Mympdplaylist-skill)
+# Ovos-Skil-My-MPD (formaly known as Mympdplaylist-skill)
 
 **Important: The old Mycroft settingsmeta.yaml is replaced by settings.json. There is an example with two servers and two stations. At least one server must be defined. The rest is optionally. Attantion: settings.json needs strict JSON syntax.**
 
@@ -30,19 +30,19 @@ To avoid possible conflicts with the skill mycroft-volume.mycroftai, the announc
 Please read at least the configuration section in the wiki.
 More information about configuration, functionality and commands in the wiki.
 
-##Requirements
+## Requirements
 
 python-mpd2 (pip install python-mpd2)
 
-##Credits
+## Credits
 
 JoergZ2
 
-##Category
+## Category
 
 Music & Audio
 
-##Tags
+## Tags
 
 ovos, Mpd, playlist, mycroft, skills
 
