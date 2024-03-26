@@ -1,0 +1,23 @@
+{
+    "__mycroft_skill_firstrun": false,
+    "radios": {
+        "büro": {
+            "ip": "192.168.178.90",
+            "port": ""
+        },
+        "werkstatt": {
+            "ip": "192.168.178.29",
+            "port": ""
+        }
+    },
+    "stations": {
+        "dlf": {
+            "name": "Deutschlandfunk",
+            "place": 0
+        },
+        "dlfkultur": {
+            "name": "Deutschlandfunk Kultur",
+            "place": 1
+        }
+    }
+}
