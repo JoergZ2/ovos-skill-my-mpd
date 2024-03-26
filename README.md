@@ -28,7 +28,7 @@ Under not fully reproducible conditions, conflicts with the mycroft-playback-con
 
 To avoid possible conflicts with the skill mycroft-volume.mycroftai, the announcement to change the volume must be expressed in a differentiated way. the best results are (for an english speaking german) with this words "Turn up (down) the volume of mpd (in the kitchen)". At least a blacklisting of mycroft-volume.mycroftai helps but is not necessary.
 Please read at least the configuration section in the wiki.
-More information about configuration, functionality and commands in the wiki.
+More information about configuration, functionality and commands in the [Link](https://github.com/JoergZ2/mympdplaylist-skill/wiki, "wiki").
 
 ## Requirements
 
