@@ -1,6 +1,6 @@
-Ovos-Skil-My-MPD (formaly known as Mympdplaylist-skill)
+#Ovos-Skil-My-MPD (formaly known as Mympdplaylist-skill)
 
-Important: The old Mycroft settingsmeta.yaml is replaced by settings.json. There is an example with two servers and two stations. At least one server must be defined. The rest is optionally. Attantion: settings.json needs strict JSON syntax.
+**Important: The old Mycroft settingsmeta.yaml is replaced by settings.json. There is an example with two servers and two stations. At least one server must be defined. The rest is optionally. Attantion: settings.json needs strict JSON syntax.**
 
 This Mycroft.ai skill tries to make the handling of saved playlists for the player MPD comfortable. In addition, this skill occasionally dialogs with the user or announces information. (There is a very good MPD skill from forslund. If you don't use playlists, but only have a music collection of music files, you should use his skill.) If you can answer three or more questions with yes, you should try this skill:
 Are different playlists used in MPD?
@@ -29,16 +29,20 @@ Under not fully reproducible conditions, conflicts with the mycroft-playback-con
 To avoid possible conflicts with the skill mycroft-volume.mycroftai, the announcement to change the volume must be expressed in a differentiated way. the best results are (for an english speaking german) with this words "Turn up (down) the volume of mpd (in the kitchen)". At least a blacklisting of mycroft-volume.mycroftai helps but is not necessary.
 Please read at least the configuration section in the wiki.
 More information about configuration, functionality and commands in the wiki.
-Requirements
+
+##Requirements
 
 python-mpd2 (pip install python-mpd2)
-Credits
+
+##Credits
 
 JoergZ2
-Category
+
+##Category
 
 Music & Audio
-Tags
 
-#Mpd, playlist, mycroft, skills
+##Tags
+
+ovos, Mpd, playlist, mycroft, skills
 
